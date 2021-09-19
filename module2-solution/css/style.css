@@ -1,1 +1,14 @@
-
+#mainhead{
+	text-align: center;
+}
+.head{
+	float: top right;
+	border: 1px solid black;
+}
+.ch{
+	background-color: #ff0022;
+}
+p{
+	background-color: grey;
+	border: 1px solid black;
+}
